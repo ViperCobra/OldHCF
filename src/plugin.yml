@@ -1,0 +1,17 @@
+name: SimplyHCF
+main: life.steeze.simplehcf.HCFMain
+description: Simply HCF
+commands:
+  faction:
+    description: Use factions
+    aliases: [f, factions, fac]
+  pos1:
+    description: Make your claim
+  pos2:
+    description: Make your claim
+permissions:
+  hcf.admin:
+    default: op
+api-version: 1.16
+version: 1.0
+author: GeeGeeTom

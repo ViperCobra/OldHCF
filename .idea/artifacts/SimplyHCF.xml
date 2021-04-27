@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimplyHCF">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="SimplyHCF.jar">
+      <element id="module-output" name="SimplyHCF" />
+    </root>
+  </artifact>
+</component>
